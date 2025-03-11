@@ -1,7 +1,7 @@
 url: https://training.scilifelab.se
-status: up
-code: 200
-responseTime: 1458
-lastUpdated: 2025-03-10T23:09:22.562Z
+status: down
+code: 500
+responseTime: 22126
+lastUpdated: 2025-03-11T08:46:12.526Z
 startTime: 2025-01-15T13:39:21.665Z
 generator: Upptime <https://github.com/upptime/upptime>
