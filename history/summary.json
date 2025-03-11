@@ -4,18 +4,19 @@
     "url": "https://training.scilifelab.se",
     "icon": "https://icons.duckduckgo.com/ip3/training.scilifelab.se.ico",
     "slug": "training-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1482,
-    "timeDay": 1458,
-    "timeWeek": 1339,
-    "timeMonth": 1361,
-    "timeYear": 1482,
+    "time": 1826,
+    "timeDay": 11792,
+    "timeWeek": 3937,
+    "timeMonth": 2053,
+    "timeYear": 1826,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2025-01-15": 26
     }
   }
